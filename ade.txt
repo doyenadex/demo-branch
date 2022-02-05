@@ -1,3 +1,7 @@
 gui text file update
 
 This is from win
+
+This is from linux
+Ade
+
